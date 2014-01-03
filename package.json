@@ -1,7 +1,7 @@
 {
   "name": "inih",
   "version": "0.0.0",
-  "repo": "stephenmathieson/inih",
+  "repo": "clibs/inih",
   "description": "simple .INI file parser",
   "keywords": [ "ini", "parser" ],
   "license": "BSD",
